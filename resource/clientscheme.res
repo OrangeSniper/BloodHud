@@ -3016,6 +3016,79 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"Backlash12"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash16"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash24"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"25"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash32"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash36"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash42"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"42"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Backlash48"
+		{
+			"1"
+			{
+				"name"		"Backlash -BRK-"
+				"tall"		"48"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+
 	}
 
 	//
@@ -5825,6 +5898,11 @@ Scheme
 			"russian"
 			{
 				"range" "0x0000 0x007E"
+			}
+			"7"
+			{
+				"font" "resources/fonts/backlash.ttf"
+				"name" "Backlash -BRK-"
 			}
 		}
 	}
