@@ -20,6 +20,20 @@
 		"teambg_3"		"../hud/ammo_blue_bg"
 		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
 	}
+		"TeamIndicator" 
+	{
+		"ControlName" "CTFImagePanel"
+		"fieldName" "TeamIndicator"
+		"xpos" "30"
+		"ypos" "0"
+		"zpos" "2"
+		"wide" "80"
+		"tall" "40"
+		"visable" "1"
+		"enabled" "1"
+		"teambg_2" "../hud/color_panel_red"
+		"teambg_3" "../hud/color_panel_blu"
+	}
 	"HudWeaponLowAmmoImage"
 	{
 		"ControlName"	"ImagePanel"

@@ -98,6 +98,7 @@
 		"enabled" "1"
 		"teambg_2" "../hud/color_panel_red"
 		"teambg_3" "../hud/color_panel_blu"
+
 	}
 
 		"PlayerStatusHealthValueBG"
