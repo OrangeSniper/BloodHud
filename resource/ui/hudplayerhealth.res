@@ -6,9 +6,9 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"c-200"		[$WIN32]
-		"xpos_minmode"	"-5"		[$WIN32]
+		"xpos_minmode"	"c-200"		[$WIN32]
 		"ypos"			"c50"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"ypos_minmode"	"c50"	[$WIN32]
 		"xpos"			"300"	[$X360]
 		"ypos"			"100"	[$X360]
 		"zpos"			"2"
@@ -38,7 +38,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"xpos"			"73"
-		"xpos_minmode"	"58"
+		"xpos_minmode"	"73"
 		"ypos"			"58"
 		"zpos"			"3"
 		"wide"			"55"
